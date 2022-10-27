@@ -78,7 +78,6 @@ def main():
     class Draw_objects(Draw_shapes):
         def __init__(self):
             super().__init__()
-        def super().__init__():
 
         def draw_boulder(self):
             """
